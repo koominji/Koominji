@@ -1,4 +1,4 @@
-### Hi there 👋
+### ✨안녕하세요 꾸준한 개발자 구민지 입니다✨ 
 
 <!--
 **koominji/Koominji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
@@ -7,4 +7,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Koominji)](https://github.com/Koominji/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Koominji)](https://github.com/Koominji/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Koominji&layout=compact)](https://github.com/Koominji/github-readme-stats)
