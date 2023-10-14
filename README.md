@@ -1,12 +1,28 @@
-### ✨안녕하세요 꾸준한 개발자 구민지 입니다✨ 
+ <div align=center>
 
-<!--
-**koominji/Koominji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+![slice](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&text=koominji&)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkoominji%2F&count_bg=%2342D8D9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<!-- github stats -->
-<!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Koominji&show_icons=true&theme=radical)](https://github.com/Koominji/github-readme-stats)-->
-<!-- top langs -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Koominji&layout=compact&theme=radical)](https://github.com/Koominji/github-readme-stats)
-<!-- footer -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+## Introduction 
+안녕하세요! 꾸준한 개발자 구민지입니다. 😀 
+
+## Strong 
+<img src="https://img.shields.io/badge/Python-0CAA41?style=flat&logo=Python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-31A8FF?style=flat&logo=FastAPI&logoColor=white" />
+<img src="https://img.shields.io/badge/Kotlin-006272?style=flat&logo=Kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/Android-ED1965?style=flat&logo=Android&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
+
+## Knowledgeable
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-FC6D26?style=flat&logo=Java&logoColor=white" />
+
+## ETC
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/MicrosoftAzure-FFE005?style=flat&logo=MicrosoftAzure&logoColor=white" />	
+<img src="https://img.shields.io/badge/GoogleCloud-4285F4?style=flat&logo=GoogleCloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Pytorch-F01428?style=flat&logo=Pytorch&logoColor=white" />
+
+
+</div>
