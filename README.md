@@ -15,13 +15,13 @@
 ## Knowledgeable
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-FC6D26?style=flat&logo=Java&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-FFE005?style=flat&logo=Docker&logoColor=white" />	
 
 ## ETC
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/MicrosoftAzure-FFE005?style=flat&logo=MicrosoftAzure&logoColor=white" />	
-<img src="https://img.shields.io/badge/Docker-F01428?style=flat&logo=Docker&logoColor=white" />
 <img src="https://img.shields.io/badge/GoogleCloud-4285F4?style=flat&logo=GoogleCloud&logoColor=white" />
 <img src="https://img.shields.io/badge/Pytorch-F01428?style=flat&logo=Pytorch&logoColor=white" />
 
