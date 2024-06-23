@@ -4,6 +4,7 @@
 
 ## Introduction 
 안녕하세요! 꾸준한 개발자 구민지입니다. 😀 
+### [구민지 노션 포트폴리오]([https://github.com/skt-fly-team-JAMMINIE/HTP-Model](https://icy-existence-5b7.notion.site/MINJI-KOO-d0f4f5722dcc463b8c75648392305cf8?pvs=4))
 
 ## Strong 
 <img src="https://img.shields.io/badge/Python-0CAA41?style=flat&logo=Python&logoColor=white" />
