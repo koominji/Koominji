@@ -12,6 +12,7 @@
 <img src="https://img.shields.io/badge/Kotlin-006272?style=flat&logo=Kotlin&logoColor=white" />
 <img src="https://img.shields.io/badge/Android-ED1965?style=flat&logo=Android&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=oracle&logoColor=white"/>
 
 ## Knowledgeable
 <img src="https://img.shields.io/badge/Java-FC6D26?style=flat&logo=Java&logoColor=white" />
