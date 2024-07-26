@@ -1,4 +1,4 @@
- <div align=center>
+ <div align=left>
 
 ![slice](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&text=koominji&)
 
