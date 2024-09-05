@@ -28,5 +28,6 @@
 <img src="https://img.shields.io/badge/GoogleCloud-4285F4?style=flat&logo=GoogleCloud&logoColor=white" />
 <img src="https://img.shields.io/badge/Pytorch-F01428?style=flat&logo=Pytorch&logoColor=white" />
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mjk2715)](https://solved.ac/백준아이디/)
 
 </div>
