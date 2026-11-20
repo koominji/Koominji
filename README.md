@@ -2,9 +2,7 @@
 
 ![slice](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&text=koominji&)
 
-## Introduction 
-안녕하세요! 꾸준한 개발자 구민지입니다. 😀 
-### 👇 노션 포트폴리오
+## Hello worrld 
 [<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">](https://icy-existence-5b7.notion.site/MINJI-KOO-d0f4f5722dcc463b8c75648392305cf8?pvs=4)
 
 ## Strong 
